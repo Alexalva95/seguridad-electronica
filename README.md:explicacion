@@ -1,0 +1,14 @@
+# Proyecto: sistema de autenticación -seguridad electronica
+## Requisitos
+XAMPP, MySQL, PHP
+
+###instrucciones
+
+1) clona este repositorio o descárgalo.
+2) coloca la carpeta en `htdocs/` si usa XAMPP
+3) importa la base de datos desde `basededatos/seguridad_db.sql` en phpMyAdmin.
+4) abre el navegador en `http://localhost/seguridad_electronica/index.php`.
+5) regístrate e inicia sesión
+
+## Autor
+Alex Alvarado - QUITNO CICLO / ING EN TECNOLOGIAS DE LA INFORMACION - Universidad UTPL
